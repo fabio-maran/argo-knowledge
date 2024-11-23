@@ -1,2 +1,2 @@
 # argo-knowledge
-To train a Bedrock Model with some argo knowsledgement
+To use as source of a KnowledBase documentations
